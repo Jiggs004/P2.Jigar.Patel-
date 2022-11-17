@@ -23,3 +23,5 @@ The final mirror has seen changes added to it. The sketch of the mirror was a ve
 A below:
 
 ![image](https://user-images.githubusercontent.com/93454693/202371164-4ee2951f-38ca-4958-bd2d-f426197587f2.png)
+
+For the advanced feature(s) section, I chose to change color of the entire screen using buttons that are located on the bottom left of the coding page. This allows users to change colors of their screens as they please. Pressing the 4 buttons on the bottom left will change colors from "Greenlight" = green screen, "Bluelight" = blue screen, "Redlight" = red screen, and "default" = normal color or no change in color. This is my one and only advanced feature.
