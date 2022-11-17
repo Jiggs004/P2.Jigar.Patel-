@@ -11,7 +11,7 @@ C below:
 
 B below:
 
-    ![Personal Magic Mirror](https://user-images.githubusercontent.com/93454693/202359338-b6581bd7-e238-497f-81bc-c3fcb0bfdb9f.gif)
+![Personal Magic Mirror](https://user-images.githubusercontent.com/93454693/202359338-b6581bd7-e238-497f-81bc-c3fcb0bfdb9f.gif)
 
 A below:
 
